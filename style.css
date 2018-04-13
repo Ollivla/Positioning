@@ -1,0 +1,31 @@
+body {
+    background-color: #7dccc5;
+}
+.images {
+    position: absolute;
+    width: 100%;
+    top: 200px;
+   }
+.world {
+    left: 0px;
+    top: 50px;
+    position: relative;
+}
+.ship {
+    position: absolute;
+    width: 19%;
+    top: 64%;
+    left: 50px;
+}
+.water {
+    position: absolute;
+    width: 100%;
+    top: 92%;
+    z-index: 1;
+}
+.clouds {
+    position: absolute;
+    width: 65%;
+    left: 40%;
+    top: -220px;
+}
