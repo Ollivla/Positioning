@@ -3,29 +3,31 @@ body {
 }
 .images {
     position: absolute;
+    top: 15%;
     width: 100%;
-    top: 200px;
-   }
+}
 .world {
-    left: 0px;
-    top: 50px;
     position: relative;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 7%;
 }
 .ship {
     position: absolute;
-    width: 19%;
-    top: 64%;
-    left: 50px;
+    width: 15%;
+    top: 63%;
+    left: 17%;
 }
 .water {
     position: absolute;
     width: 100%;
-    top: 92%;
+    top: 91%;
     z-index: 1;
 }
 .clouds {
     position: absolute;
-    width: 65%;
-    left: 40%;
-    top: -220px;
+    width: 44%;
+    left: 43%;
+    top: -13%;
 }
